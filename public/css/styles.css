@@ -33,7 +33,8 @@ button:disabled{
 	cursor:default;
 	background:#698ea5
 }
-.centered-form{display:flex;
+.centered-form{
+	display:flex;
 	align-items:center;
 	height:100vh;
 	width:100vw;
